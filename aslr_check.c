@@ -19,6 +19,8 @@ grams as follows:
                    "DISABLE ASLR" += echo "0" > /proc/sys/kernel/randomize_va_space
                    "ENABLE ASLR"  += echo "2" > /proc/sys/kernel/randomize_va_space
                    
-                   root@t0xin:/home/nanob0t/src/grey-hat-hacking/chapter 10/c# ./aslr_check 
+                   root@t0xin:/home/fwewe32/src/grey-hat-hacking/chapter 10/c# ./aslr_check 
                    Stack pointer (ESP): 0xbffff6e8
+                   
+                   Ref: http://www.amazon.com/Hacking-Ethical-Hackers-Handbook-Edition/dp/0071742557
  */
