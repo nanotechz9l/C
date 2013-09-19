@@ -22,5 +22,5 @@ grams as follows:
                    root@t0xin:/home/fwewe32/src/grey-hat-hacking/chapter 10/c# ./aslr_check 
                    Stack pointer (ESP): 0xbffff6e8
                    
-                   Ref: http://www.amazon.com/Hacking-Ethical-Hackers-Handbook-Edition/dp/0071742557
- */
+http://www.amazon.com/Hacking-Ethical-Hackers-Handbook-Edition/dp/0071742557
+*/
